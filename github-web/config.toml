@@ -1,0 +1,42 @@
+baseURL = 'http://gohugo.io/'
+languageCode = 'en-us'
+theme = "hugo-theme-nightfall"
+
+[menu]
+  [[menu.header]]
+    name = "About"
+    weight = 1
+    url = "about"
+  [[menu.header]]
+    name = "Research"
+    weight = 2
+    url = "research"
+
+
+[params]
+author = "Anthony Pignatelli"
+user = "anthony-pignatelli"
+hostname = "Home"
+
+readingTime = false  # Show reading time on post page
+published = false #Show published data on post page
+
+[[params.social]]
+key = 0
+name = "github"
+url = "https://github.com/anthony-pignatelli"
+
+[[params.social]]
+key = 1
+name = "twitter"
+url = "https://www.twitter.com/AnthonyP321"
+
+[[params.social]]
+key = 2
+name = "linkedin"
+url = "https://www.linkedin.com/in/anthony-pignatelli-a311091a2"
+
+[[params.social]]
+key = 3
+name = "email"
+url = "mailto:pignatea@email.sc.edu"
