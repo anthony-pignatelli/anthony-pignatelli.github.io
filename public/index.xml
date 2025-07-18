@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anthony Pignatelli, M.S. on Home</title>
+    <link>http://localhost:4321/</link>
+    <description>Recent content in Anthony Pignatelli, M.S. on Home</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:4321/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:4321/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/about/</guid>
+      <description>I am a PhD student in the Department of Biological Sciences at the University of South Carolina. I orginally started my academic journey as an undergrad at Kent State University (Kent, Ohio) where I majored in Environmental and Conservation Biology. While at Kent, I conducted undergraduate research with Dr. Dave Costello understanding nutrient decomposition and immobilization in urban streams. After Kent, I began a Masters program at the University of Central Arkansas (Conway, Arkansas) where I worked with Dr.</description>
+    </item>
+    <item>
+      <title>Photo Gallery</title>
+      <link>http://localhost:4321/photos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/photos/</guid>
+      <description> Climbing the mountains of the Snowy Range outside Laramie, Wyoming. (2022) </description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:4321/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/project/</guid>
+      <description>1. metaPatch Habitat Fragmentation Effects on Population Dynamics - A Lab Experiment&#xA;Keep up with the project: https://github.com/anthony-pignatelli/metaPatch&#xA;3D Printed Habitats at different levels of fragmentation. 2. streamSync Community Synchrony influenced by environmental variability&#xA;Keep up with the project: https://github.com/anthony-pignatelli/streamSync&#xA;3. tempGen Effect of extreme heat on insect emergence time&#xA;Keep up with the project: https://github.com/anthony-pignatelli/tempGen&#xA;4. geoSync Keep up with the project: https://github.com/anthony-pignatelli/geoSync</description>
+    </item>
+    <item>
+      <title>Publications</title>
+      <link>http://localhost:4321/pubs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:4321/pubs/</guid>
+      <description>AJ Pignatelli and TA Dallas. In Review. Community synchrony declines under increasing environmental variability in aquatic macroinvertebrate communities.&#xA;DA Cross, K Capps, D Costello, &amp;hellip;, AJ Pignatelli et al. 2025. Influence of urbanization on organic-matter processing and nutrient immobilization in wadable streams (southeastern USA). Freshwater Science&#xA;EK Moody,&amp;hellip;, AJ Pignatelli et al. 2024. Linking Functional Responses and Effects with Stoichiometric Traits. Ecology https://doi.org/10.1002/ecy.70080&#xA;B Tumolo, C Olson,&amp;hellip;, AJ Pignatelli et al.</description>
+    </item>
+  </channel>
+</rss>
