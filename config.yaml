@@ -17,10 +17,10 @@ languages:
     #contentDir: content/fr
     #title: Anthony Pignatelli Fr
     #weight: 2
-#sitemap:
-  #changefreq: monthly
-  #filename: sitemap.xml
-  #priority: 0
+sitemap:
+  changefreq: monthly
+  filename: sitemap.xml
+  priority: 0.5
 params:
   ananke_socials:
     - name: Dallas Lab
