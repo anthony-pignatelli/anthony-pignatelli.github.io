@@ -2,8 +2,6 @@ title: My Personal Website
 baseURL: "https://anthony-pignatelli.github.io/"
 languageCode: en-us
 theme: gohugo-theme-ananke
-resourceDir: ../resources
-publishDir: "public"
 DefaultContentLanguage: en
 SectionPagesMenu: main
 Paginate: 3
