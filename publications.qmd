@@ -2,6 +2,14 @@
 title: "publications"
 ---
 
-Here is a *mostly* up to date list of my publications. Check out my Google Scholar Profile (<https://scholar.google.com/citations?user=0OdkvtMAAAAJ&hl=en>) for a more up to date bibliography.
+Here is a *mostly* up to date list of my publications. Check out my [Google Scholar](https://scholar.google.com/citations?user=0OdkvtMAAAAJ&hl=en) profile for a more up to date bibliography.
 
-1.  
+### In-Prep/Review
+
+### Published
+
+1.  Tumolo, Olson, Larson, ... , **Pignatelli,** et al. 2024. Nonlinear thinking in ecology and evolution: The case for ecological scaling of the Threshold Elemental Ratio. BioRxiv.
+
+2.  Moody, Anania, Boersma, ... , **Pignatelli**, et al. 2025. Linking functional responses and effects with stoichiometric traits. Ecology.
+
+3.  Cross, Costello, Tiegs, Kuehn, Halvorson, and **Pignatelli**. 2025. Influence of urbanization on organic matter processing and nutrient immobilization in wadeable streams (southeastern USA). Freshwater Science.
