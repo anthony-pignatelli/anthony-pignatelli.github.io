@@ -1,0 +1,47 @@
+---
+title: "Research"
+---
+
+My approach to science combines theory, observational data, and microcosm studies.
+
+# Main Research Interests
+
+## Macroecology
+
+I enjoy studying broad scale ecological patterns across space, time, and by considering hundreds, if not, thousands of species. I'm particularly interested in linking macroecological patterns to more local level processes such as community synchrony.
+
+## Population and Community Dynamics
+
+-   Spatial/Population Synchrony
+
+    -   Spatial synchrony is a phenomenon where multiple spatially disjunct populations temporally fluctuate either similarly to each other or differently.
+
+-   Community/Species Synchrony
+
+    -   Within a single community, I am interested in how species fluctuate relative to each other and how that impacts long-term community dynamics and outcomes (e.g. extinction, community stability)
+
+-   Population Variability
+
+    -   I'm interested in what makes populations vary temporally and spatially. While similar to my interests in synchrony, here I am trying to understand what drivers of population variability are more impactful on population dynamics.
+
+## Testing Ecological Theories in the Lab
+
+-   Habitat fragmentation *per se*
+
+    -   We know that habitat fragmentation is a great threat to biodiversity and ecosystem functioning. Many studies of habitat fragmentation take place in large field systems where it is difficult to parse out different effects of fragmentation on population dynamics.
+
+    -   Using the *Tribolium* flour beetle system, I am trying to look at the effects of habitat fragmentation *per se on* population dynamics, that is, simply the separation of habitat patches but not removing amount of habitat.
+
+# Other Research Interests
+
+## Freshwater Ecology
+
+-   My master's background is in freshwater ecology. Here, I am very interested in food web dynamics and nutrient cycling from basal food resources up to the consumer (either macroinvertebrates or fish). I'm particularly interested in how urbanization and land use change affect these aquatic communities from physical characteristics to biodiversity.
+
+-   I have studied food web dynamics by considering the ecological stoichiometry of resources and consumers and how the ratios of Carbon, Nitrogen, and Phosphorus change through the food web.
+
+## Geographic Information Science
+
+-   My undergraduate minor was in geography where I learned skills in ArcGIS software and remote sensing techniques through the TerrSet software.
+
+-   I enjoy using satellite imagery to conduct unsupervised and supervised land use classification in my work. With this, I am interested in honing these techniques to incorporate in my ecological research.

@@ -1,0 +1,17 @@
+---
+title: "Quantitative Ecology at U of SC"
+---
+
+Welcome to my personal/academic website! I am an ecologist broadly interested in large scale (temporal and spatial) patterns in population and community dynamics. Explore this website to learn more about me and my work!
+
+Here are some links to associated web pages:
+
+-   [Dallas Lab Website](taddallas.github.io)
+
+-   [Dallas Lab Github](github.com/dallasLab)
+
+-   [Anthony's Github](github.com/anthony-pignatelli)
+
+-   [U of SC Department of Biological Sciences](https://sc.edu/study/colleges_schools/artsandsciences/biological_sciences/)
+
+![Made using generative AI](images/mylogo.png){fig-align="center" width="600"}
