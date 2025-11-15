@@ -6,11 +6,11 @@ Welcome to my personal/academic website! I am an ecologist broadly interested in
 
 Here are some links to associated web pages:
 
--   [Dallas Lab Website](taddallas.github.io)
+-   [Dallas Lab Website](https://taddallas.github.io)
 
--   [Dallas Lab Github](github.com/dallasLab)
+-   [Dallas Lab Github](https://github.com/dallasLab)
 
--   [Anthony's Github](github.com/anthony-pignatelli)
+-   [Anthony's Github](https://github.com/anthony-pignatelli)
 
 -   [U of SC Department of Biological Sciences](https://sc.edu/study/colleges_schools/artsandsciences/biological_sciences/)
 
