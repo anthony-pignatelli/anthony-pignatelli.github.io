@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "anthony-pignatelli.github.io"
@@ -20,5 +21,5 @@ format:
 
 editor: visual
 
-output-dir: /docs
+
 
