@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Quantitative Ecology at U of SC",
+    "section": "",
+    "text": "Welcome to my personal/academic website! I am an ecologist broadly interested in large scale (temporal and spatial) patterns in population and community dynamics. Explore this website to learn more about me and my work!\nHere are some links to associated web pages:\n\nDallas Lab Website\nDallas Lab Github\nAnthony’s Github\nU of SC Department of Biological Sciences\n\n\n\n\nMade using generative AI"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Anthony",
+    "section": "",
+    "text": "At the top of Green Mountain in Boulder, CO\n\n\nThanks for checking out my website! I consider myself a quantitative community ecologist interested in leveraging long-term existing data sets to understand how species respond to their environment and with each other. I received my Bachelor’s degree in Environmental and Conservation Biology from Kent State University (2021), then a Master’s degree in Biology from the University of Central Arkansas (2023). Currently, I am a PhD student in Biological Sciences at the University of South Carolina working the lab of Dr. Tad Dallas.\nIn my spare time, I like to read fantasy novels, play video games, or go for a hike with my partner in science, my pup, Maverick!\n\n\n\nMaverick and I hiking on the Palmetto Trail in Columbia, SC"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My approach to science combines theory, observational data, and microcosm studies."
+  },
+  {
+    "objectID": "research.html#macroecology",
+    "href": "research.html#macroecology",
+    "title": "Research",
+    "section": "Macroecology",
+    "text": "Macroecology\nI enjoy studying broad scale ecological patterns across space, time, and by considering hundreds, if not, thousands of species. I’m particularly interested in linking macroecological patterns to more local level processes such as community synchrony."
+  },
+  {
+    "objectID": "research.html#population-and-community-dynamics",
+    "href": "research.html#population-and-community-dynamics",
+    "title": "Research",
+    "section": "Population and Community Dynamics",
+    "text": "Population and Community Dynamics\n\nSpatial/Population Synchrony\n\nSpatial synchrony is a phenomenon where multiple spatially disjunct populations temporally fluctuate either similarly to each other or differently.\n\nCommunity/Species Synchrony\n\nWithin a single community, I am interested in how species fluctuate relative to each other and how that impacts long-term community dynamics and outcomes (e.g. extinction, community stability)\n\nPopulation Variability\n\nI’m interested in what makes populations vary temporally and spatially. While similar to my interests in synchrony, here I am trying to understand what drivers of population variability are more impactful on population dynamics."
+  },
+  {
+    "objectID": "research.html#testing-ecological-theories-in-the-lab",
+    "href": "research.html#testing-ecological-theories-in-the-lab",
+    "title": "Research",
+    "section": "Testing Ecological Theories in the Lab",
+    "text": "Testing Ecological Theories in the Lab\n\nHabitat fragmentation per se\n\nWe know that habitat fragmentation is a great threat to biodiversity and ecosystem functioning. Many studies of habitat fragmentation take place in large field systems where it is difficult to parse out different effects of fragmentation on population dynamics.\nUsing the Tribolium flour beetle system, I am trying to look at the effects of habitat fragmentation per se on population dynamics, that is, simply the separation of habitat patches but not removing amount of habitat."
+  },
+  {
+    "objectID": "research.html#freshwater-ecology",
+    "href": "research.html#freshwater-ecology",
+    "title": "Research",
+    "section": "Freshwater Ecology",
+    "text": "Freshwater Ecology\n\nMy master’s background is in freshwater ecology. Here, I am very interested in food web dynamics and nutrient cycling from basal food resources up to the consumer (either macroinvertebrates or fish). I’m particularly interested in how urbanization and land use change affect these aquatic communities from physical characteristics to biodiversity.\nI have studied food web dynamics by considering the ecological stoichiometry of resources and consumers and how the ratios of Carbon, Nitrogen, and Phosphorus change through the food web."
+  },
+  {
+    "objectID": "research.html#geographic-information-science",
+    "href": "research.html#geographic-information-science",
+    "title": "Research",
+    "section": "Geographic Information Science",
+    "text": "Geographic Information Science\n\nMy undergraduate minor was in geography where I learned skills in ArcGIS software and remote sensing techniques through the TerrSet software.\nI enjoy using satellite imagery to conduct unsupervised and supervised land use classification in my work. With this, I am interested in honing these techniques to incorporate in my ecological research."
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "Teaching Philosophy Statement\nI believe that students\n\n\nCourses I Teach\n\nBIOL 102L Biological Principles II Laboratory (Fall 2023)\n\n2 Sections\nIntroduction course for biological sciences majors focused on plant physiology, evolution, and ecology\n\nBIOL 301L Ecology and Evolution Laboratory (Spring 2024-Spring 2025)\n\n2 Sections\nSophomore level course focused on basic ecology principles and evolution. Many labs were conducted outside giving students field experience.\n\nBIOL 301 Ecology and Evolution Lecture (Spring 2026-Present)\n\n1 Section with 48 students"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "publications",
+    "section": "",
+    "text": "Here is a mostly up to date list of my publications. Check out my Google Scholar Profile (https://scholar.google.com/citations?user=0OdkvtMAAAAJ&hl=en) for a more up to date bibliography."
+  }
+]
