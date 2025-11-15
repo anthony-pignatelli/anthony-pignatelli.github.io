@@ -12,6 +12,7 @@ website:
       - publications.qmd
       - research.qmd
       - teaching.qmd
+      - contact.qmd
 
 format:
   html:
