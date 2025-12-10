@@ -2,10 +2,6 @@
 title: "Teaching"
 ---
 
-# Teaching Philosophy Statement
-
-I believe that students
-
 # Courses I Teach
 
 -   BIOL 102L Biological Principles II Laboratory (Fall 2023)
