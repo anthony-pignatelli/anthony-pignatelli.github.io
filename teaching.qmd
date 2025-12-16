@@ -2,20 +2,18 @@
 title: "Teaching"
 ---
 
-# Courses I Teach
+# Past Courses
 
 -   BIOL 102L Biological Principles II Laboratory (Fall 2023)
 
-    -   2 Sections
-
-    -   Introduction course for biological sciences majors focused on plant physiology, evolution, and ecology
+    -   Course Description: Experimental examination of structure and function of plant and animal systems, biodiversity, ecology.
 
 -   BIOL 301L Ecology and Evolution Laboratory (Spring 2024-Spring 2025)
 
-    -   2 Sections
+    -   Course Description: Experiments, exercises, and demonstrations.
 
-    -   Sophomore level course focused on basic ecology principles and evolution. Many labs were conducted outside giving students field experience.
+# Current Courses
 
 -   BIOL 301 Ecology and Evolution Lecture (Spring 2026-Present)
 
-    -   1 Section with 48 students
+    -   Course Description: Concepts of evolution, populations, and population interactions; communities and ecosystems.

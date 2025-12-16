@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "Quantitative Ecology at U of SC",
     "section": "",
-    "text": "Welcome to my personal/academic website! I am an ecologist broadly interested in large scale (temporal and spatial) patterns in population and community dynamics. Explore this website to learn more about me and my work!\nHere are some links to associated web pages:\n\nDallas Lab Website\nDallas Lab Github\nAnthony’s Github\nU of SC Department of Biological Sciences\n\n\n\n\nMade using generative AI"
+    "text": "Welcome — I am an ecologist broadly interested in large-scale (temporal and spatial) patterns in population and community dynamics. Currently, I am a PhD researcher in the Dallas Quantitative Ecology Lab at the University of South Carolina with an expected graduate date of 2028."
   },
   {
     "objectID": "about.html",
@@ -60,14 +60,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Teaching\n\n\nCourses I Teach\n\nBIOL 102L Biological Principles II Laboratory (Fall 2023)\n\n2 Sections\nIntroduction course for biological sciences majors focused on plant physiology, evolution, and ecology\n\nBIOL 301L Ecology and Evolution Laboratory (Spring 2024-Spring 2025)\n\n2 Sections\nSophomore level course focused on basic ecology principles and evolution. Many labs were conducted outside giving students field experience.\n\nBIOL 301 Ecology and Evolution Lecture (Spring 2026-Present)\n\n1 Section with 48 students"
+    "text": "Courses I Teach\n\nBIOL 102L Biological Principles II Laboratory (Fall 2023)\n\n2 Sections\nIntroduction course for biological sciences majors focused on plant physiology, evolution, and ecology\n\nBIOL 301L Ecology and Evolution Laboratory (Spring 2024-Spring 2025)\n\n2 Sections\nSophomore level course focused on basic ecology principles and evolution. Many labs were conducted outside giving students field experience.\n\nBIOL 301 Ecology and Evolution Lecture (Spring 2026-Present)\n\n1 Section with 48 students"
   },
   {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "Publications",
     "section": "",
-    "text": "Here is a mostly up to date list of my publications. Check out my Google Scholar profile for a more up to date bibliography.\n\nCommunity synchrony in aquatic macroinvertebrates is unrelated to environmental variability but differs among functional feeding groups.\nAJ Pignatelli, TA Dallas. In Review\nNonlinear thinking in ecology and evolution: The case for ecological scaling of the Threshold Elemental Ratio.\nBB Tumolo, CR Olson, EL Larson, HM Halvorson, CE Wagner, AC Krist, FS Osburn, EK Moody, LA Rock, UVC Ogbenna, EN Wess, B Najev, AJ Pignatelli, JR Corman. 2025 Oecologia\nLinking functional responses and effects with stoichiometric traits.\nEK Moody, K Anania, KS Boersma, TJ Butts, JR Corman, S Cruz, WR Farrell, KN Fonseca, AC Krist, EI Larson, A Lewanski, CLiriano, AJ Pignatelli, A Poetzl, AT Rugenski, CStiglitz, A Villanueva. 2025 Ecology.\nInfluence of urbanization on organic matter processing and nutrient immobilization in wadeable streams (southeastern USA).\nDA Cross, DM Costello, SD Tiegs, KA Kuehn, HM Halvorson, AJ Pignatelli, KA Capps. 2025 Freshwater Science."
+    "text": "Here is a mostly up to date list of my publications. Check out my Google Scholar profile for a more up to date bibliography.\n\nCommunity synchrony in aquatic macroinvertebrates is unrelated to environmental variability but differs among functional feeding groups.\nAJ Pignatelli, TA Dallas. In Review\nNonlinear thinking in ecology and evolution: The case for ecological scaling of the Threshold Elemental Ratio.\nBB Tumolo, CR Olson, EL Larson, HM Halvorson, CE Wagner, AC Krist, FS Osburn, EK Moody, LA Rock, UVC Ogbenna, EN Wess, B Najev, AJ Pignatelli, JR Corman. 2026 Oecologia\nLinking functional responses and effects with stoichiometric traits.\nEK Moody, K Anania, KS Boersma, TJ Butts, JR Corman, S Cruz, WR Farrell, KN Fonseca, AC Krist, EI Larson, A Lewanski, CLiriano, AJ Pignatelli, A Poetzl, AT Rugenski, CStiglitz, A Villanueva. 2025 Ecology.\nInfluence of urbanization on organic matter processing and nutrient immobilization in wadeable streams (southeastern USA).\nDA Cross, DM Costello, SD Tiegs, KA Kuehn, HM Halvorson, AJ Pignatelli, KA Capps. 2025 Freshwater Science."
   },
   {
     "objectID": "contact.html",
@@ -75,5 +75,40 @@
     "title": "Contact",
     "section": "",
     "text": "Let’s connect and chat science or collaborate!\n\nEmail\npignatea@email.sc.edu - Work\nanthonyjpignatelli@gmail.com - Personal\n\n\nAddress\nEarth and Water Sciences\nRoom 601\n701 Sumter Street\nColumbia, SC 29208"
+  },
+  {
+    "objectID": "index.html#some-heading",
+    "href": "index.html#some-heading",
+    "title": "Quantitative Ecology at U of SC",
+    "section": "Some heading",
+    "text": "Some heading\n\n\n\n\nMade using generative AI"
+  },
+  {
+    "objectID": "index.html#news-and-updates",
+    "href": "index.html#news-and-updates",
+    "title": "Quantitative Ecology at U of SC",
+    "section": "News and Updates:",
+    "text": "News and Updates:"
+  },
+  {
+    "objectID": "index.html#section",
+    "href": "index.html#section",
+    "title": "Quantitative Ecology at U of SC",
+    "section": "",
+    "text": "Made using generative AI"
+  },
+  {
+    "objectID": "index.html#lets-connect",
+    "href": "index.html#lets-connect",
+    "title": "Quantitative Ecology at U of SC",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\nLet’s connect and chat science or collaborate!\n\nEmail\npignatea@email.sc.edu - Work\nanthonyjpignatelli@gmail.com - Personal\n\n\nAddress\nEarth and Water Sciences\nRoom 601\n701 Sumter Street\nColumbia, SC 29208\n\n\n\n\nMade using generative AI"
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Quantitative Ecology at U of SC",
+    "section": "Get in touch:",
+    "text": "Get in touch:\nLet’s connect and chat science or collaborate!\n\nEmail\npignatea@email.sc.edu - Work\nanthonyjpignatelli@gmail.com - Personal\n\n\nAddress\nRoom 601\nEarth and Water Sciences Building\nDepartment of Biological Sciences\nUniversity of South Carolina\n701 Sumter Street\nColumbia, SC 29208\n\n\n\n\nMade using generative AI"
   }
 ]

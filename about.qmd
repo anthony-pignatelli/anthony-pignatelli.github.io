@@ -2,10 +2,10 @@
 title: "About Anthony"
 ---
 
-![At the top of Green Mountain in Boulder, CO](images/boulder.jpeg){fig-align="center"}
+![At the top of Green Mountain in Boulder, CO](images/boulder.jpeg){fig-align="center" width="400"}
 
 Thanks for checking out my website! I consider myself a quantitative community ecologist interested in leveraging long-term existing data sets to understand how species respond to their environment and with each other. I received my Bachelor's degree in *Environmental and Conservation Biology* from Kent State University (2021), then a Master's degree in *Biology* from the University of Central Arkansas (2023). Currently, I am a PhD student in *Biological Sciences* at the University of South Carolina working the lab of Dr. Tad Dallas.
 
 In my spare time, I like to read fantasy novels, play video games, or go for a hike with my partner in science, my pup, Maverick!
 
-![Maverick and I hiking on the Palmetto Trail in Columbia, SC](images/maverick_bridge.JPG)
+![Maverick and I hiking on the Palmetto Trail in Columbia, SC](images/maverick_bridge.JPG){width="400"}
