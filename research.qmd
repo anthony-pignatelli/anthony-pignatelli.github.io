@@ -2,13 +2,13 @@
 title: "Research"
 ---
 
-My approach to science combines theory, observational data, and microcosm studies.
+My approach to science combines theory, observational data, and microcosm studies to understand broad-scale ecological problems. I'm particularly interested in human-driven disturbances and how species respond to these threats (e.g. anthropogenic climate change, land use development, urbanization).
 
 # Main Research Interests
 
 ## Macroecology
 
-I enjoy studying broad scale ecological patterns across space, time, and by considering hundreds, if not, thousands of species. I'm particularly interested in linking macroecological patterns to more local level processes such as community synchrony.
+I enjoy studying broad scale ecological patterns across space, time, and by considering hundreds, if not, thousands of species. I'm particularly interested in linking macroecological patterns to more local level phenomena such as community synchrony.
 
 ## Population and Community Dynamics
 
@@ -31,6 +31,10 @@ I enjoy studying broad scale ecological patterns across space, time, and by cons
     -   We know that habitat fragmentation is a great threat to biodiversity and ecosystem functioning. Many studies of habitat fragmentation take place in large field systems where it is difficult to parse out different effects of fragmentation on population dynamics.
 
     -   Using the *Tribolium* flour beetle system, I am trying to look at the effects of habitat fragmentation *per se on* population dynamics, that is, simply the separation of habitat patches but not removing amount of habitat.
+
+    ![](images/beetlebox_clean.jpeg){width="300" height="390"}
+
+-   ![](images/beetlebox_flour.jpeg){width="300"}
 
 # Other Research Interests
 

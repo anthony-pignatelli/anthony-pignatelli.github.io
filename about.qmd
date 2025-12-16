@@ -8,4 +8,4 @@ Thanks for checking out my website! I consider myself a quantitative community e
 
 In my spare time, I like to read fantasy novels, play video games, or go for a hike with my partner in science, my pup, Maverick!
 
-![Maverick and I hiking on the Palmetto Trail in Columbia, SC](images/maverick_bridge.JPG){width="400"}
+![Maverick and I hiking on the Palmetto Trail in Columbia, SC](images/maverick_bridge.JPG){fig-align="center" width="400"}
