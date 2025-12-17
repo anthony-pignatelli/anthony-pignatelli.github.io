@@ -34,7 +34,9 @@ I enjoy studying broad scale ecological patterns across space, time, and by cons
 
     ![3D printed habitat patches. Overall landscapes are the same size.](images/beetlebox_clean.jpeg){width="300" height="390"}
 
--   ![Landscapes during the experiment.](images/beetlebox_flour.jpeg){width="300"}
+-   
+
+    ![Landscapes during the experiment.](images/beetlebox_flour.jpeg){width="300"}
 
 # Other Research Interests
 
