@@ -32,9 +32,9 @@ I enjoy studying broad scale ecological patterns across space, time, and by cons
 
     -   Using the *Tribolium* flour beetle system, I am trying to look at the effects of habitat fragmentation *per se on* population dynamics, that is, simply the separation of habitat patches but not removing amount of habitat.
 
-    ![](images/beetlebox_clean.jpeg){width="300" height="390"}
+    ![3D printed habitat patches. Overall landscapes are the same size.](images/beetlebox_clean.jpeg){width="300" height="390"}
 
--   ![](images/beetlebox_flour.jpeg){width="300"}
+-   ![Landscapes during the experiment.](images/beetlebox_flour.jpeg){width="300"}
 
 # Other Research Interests
 

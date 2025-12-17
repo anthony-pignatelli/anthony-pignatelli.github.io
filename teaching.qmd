@@ -2,8 +2,6 @@
 title: "Teaching"
 ---
 
-# Teaching at UofSC
-
 ## Current Courses
 
 -   BIOL 301 Ecology and Evolution Lecture (Jan 2026-Present)
@@ -20,7 +18,7 @@ title: "Teaching"
 
     -   Course Description: Experiments, exercises, and demonstrations.
 
-## Teaching Enrichment Opportunities
+## Education/Teaching Workshops and Programs
 
 I have been taking advantage of programs and short courses offered through the University of South Carolina [Center for Teaching Excellence.](https://sc.edu/about/offices_and_divisions/cte/index.php)
 
