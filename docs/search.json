@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Anthony",
+    "section": "",
+    "text": "At the top of Green Mountain in Boulder, CO\n\n\nI consider myself a quantitative community ecologist interested in leveraging long-term existing data sets to understand how species respond to their environment and with each other. I received my Bachelor’s degree in Environmental and Conservation Biology from Kent State University (2021), then a Master’s degree in Biology from the University of Central Arkansas (2023). Currently, I am a PhD student in Biological Sciences at the University of South Carolina working the lab of Dr. Tad Dallas.\nIn my spare time, I like to read fantasy novels, play video games, or go for a hike with my partner in science, my pup, Maverick!\n\n\n\nMaverick and I hiking on the Palmetto Trail in Columbia, SC"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Quantitative Ecology at U of SC",
@@ -7,11 +14,11 @@
     "text": "Welcome — I am an ecologist broadly interested in large-scale (temporal and spatial) patterns in population and community dynamics. Currently, I am a PhD researcher in the Dallas Quantitative Ecology Lab at the University of South Carolina with an expected graduate date of 2028."
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About Anthony",
-    "section": "",
-    "text": "At the top of Green Mountain in Boulder, CO\n\n\nThanks for checking out my website! I consider myself a quantitative community ecologist interested in leveraging long-term existing data sets to understand how species respond to their environment and with each other. I received my Bachelor’s degree in Environmental and Conservation Biology from Kent State University (2021), then a Master’s degree in Biology from the University of Central Arkansas (2023). Currently, I am a PhD student in Biological Sciences at the University of South Carolina working the lab of Dr. Tad Dallas.\nIn my spare time, I like to read fantasy novels, play video games, or go for a hike with my partner in science, my pup, Maverick!\n\n\n\nMaverick and I hiking on the Palmetto Trail in Columbia, SC"
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Quantitative Ecology at U of SC",
+    "section": "Get in touch:",
+    "text": "Get in touch:\nLet’s connect and chat science or collaborate!\n\nEmail\npignatea@email.sc.edu - Work\nanthonyjpignatelli@gmail.com - Personal\n\n\nAddress\nRoom 601\nEarth and Water Sciences Building\nDepartment of Biological Sciences\nUniversity of South Carolina\n701 Sumter Street\nColumbia, SC 29208\n\n\n\n\nMade using generative AI"
   },
   {
     "objectID": "research.html",
@@ -63,55 +70,6 @@
     "text": "BIOL 301 Ecology and Evolution Lecture (Jan 2026-Present)\n\nCourse Description: Concepts of evolution, populations, and population interactions; communities and ecosystems."
   },
   {
-    "objectID": "publications.html",
-    "href": "publications.html",
-    "title": "Publications",
-    "section": "",
-    "text": "Here is a mostly up to date list of my publications. Check out my Google Scholar profile for a more up to date bibliography.\n\nCommunity synchrony in aquatic macroinvertebrates is unrelated to environmental variability but differs among functional feeding groups.\nAJ Pignatelli, TA Dallas. In Review\nNonlinear thinking in ecology and evolution: The case for ecological scaling of the Threshold Elemental Ratio. https://doi.org/10.1007/s00442-025-05842-w\nBB Tumolo, CR Olson, EL Larson, HM Halvorson, CE Wagner, AC Krist, FS Osburn, EK Moody, LA Rock, UVC Ogbenna, EN Wess, B Najev, AJ Pignatelli, JR Corman. 2026 Oecologia\nLinking functional responses and effects with stoichiometric traits. https://doi.org/10.1002/ecy.70080\nEK Moody, K Anania, KS Boersma, TJ Butts, JR Corman, S Cruz, WR Farrell, KN Fonseca, AC Krist, EI Larson, A Lewanski, CLiriano, AJ Pignatelli, A Poetzl, AT Rugenski, CStiglitz, A Villanueva. 2025 Ecology.\nInfluence of urbanization on organic matter processing and nutrient immobilization in wadeable streams (southeastern USA). https://doi.org/10.1086/738281\nDA Cross, DM Costello, SD Tiegs, KA Kuehn, HM Halvorson, AJ Pignatelli, KA Capps. 2025 Freshwater Science."
-  },
-  {
-    "objectID": "contact.html",
-    "href": "contact.html",
-    "title": "Contact",
-    "section": "",
-    "text": "Let’s connect and chat science or collaborate!\n\nEmail\npignatea@email.sc.edu - Work\nanthonyjpignatelli@gmail.com - Personal\n\n\nAddress\nEarth and Water Sciences\nRoom 601\n701 Sumter Street\nColumbia, SC 29208"
-  },
-  {
-    "objectID": "index.html#some-heading",
-    "href": "index.html#some-heading",
-    "title": "Quantitative Ecology at U of SC",
-    "section": "Some heading",
-    "text": "Some heading\n\n\n\n\nMade using generative AI"
-  },
-  {
-    "objectID": "index.html#news-and-updates",
-    "href": "index.html#news-and-updates",
-    "title": "Quantitative Ecology at U of SC",
-    "section": "News and Updates:",
-    "text": "News and Updates:"
-  },
-  {
-    "objectID": "index.html#section",
-    "href": "index.html#section",
-    "title": "Quantitative Ecology at U of SC",
-    "section": "",
-    "text": "Made using generative AI"
-  },
-  {
-    "objectID": "index.html#lets-connect",
-    "href": "index.html#lets-connect",
-    "title": "Quantitative Ecology at U of SC",
-    "section": "Let’s Connect",
-    "text": "Let’s Connect\nLet’s connect and chat science or collaborate!\n\nEmail\npignatea@email.sc.edu - Work\nanthonyjpignatelli@gmail.com - Personal\n\n\nAddress\nEarth and Water Sciences\nRoom 601\n701 Sumter Street\nColumbia, SC 29208\n\n\n\n\nMade using generative AI"
-  },
-  {
-    "objectID": "index.html#get-in-touch",
-    "href": "index.html#get-in-touch",
-    "title": "Quantitative Ecology at U of SC",
-    "section": "Get in touch:",
-    "text": "Get in touch:\nLet’s connect and chat science or collaborate!\n\nEmail\npignatea@email.sc.edu - Work\nanthonyjpignatelli@gmail.com - Personal\n\n\nAddress\nRoom 601\nEarth and Water Sciences Building\nDepartment of Biological Sciences\nUniversity of South Carolina\n701 Sumter Street\nColumbia, SC 29208\n\n\n\n\nMade using generative AI"
-  },
-  {
     "objectID": "teaching.html#current-courses",
     "href": "teaching.html#current-courses",
     "title": "Teaching",
@@ -126,24 +84,24 @@
     "text": "Past Courses\n\nBIOL 102L Biological Principles II Laboratory (Aug-Dec 2023)\n\nCourse Description: Experimental examination of structure and function of plant and animal systems, biodiversity, ecology.\n\nBIOL 301L Ecology and Evolution Laboratory (Jan 2024-May 2025)\n\nCourse Description: Experiments, exercises, and demonstrations."
   },
   {
-    "objectID": "teaching.html#teaching-enrichment-opportunities",
-    "href": "teaching.html#teaching-enrichment-opportunities",
-    "title": "Teaching",
-    "section": "",
-    "text": "I have been taking advantage of programs and short courses offered through the University of South Carolina Center for Teaching Excellence.\n\nPreparing Future Faculty Program - December 2025-Present\n\nThe Preparing Future Faculty (PFF) program is a professional development opportunity that provides assistance to graduate students and post-docs who want to become faculty members at the college level. PFF is a national program established by the Council of Graduate Schools, the Association of American Colleges and Universities, the Pew Charitable Trust and the National Science Foundation.\n\nFoster Student Learning through Effective Teaching - Short Course - Jan 2026 - Feb 2026"
-  },
-  {
-    "objectID": "teaching.html#educationteaching-workshops-and-programs",
-    "href": "teaching.html#educationteaching-workshops-and-programs",
-    "title": "Teaching",
-    "section": "Education/Teaching Workshops and Programs",
-    "text": "Education/Teaching Workshops and Programs\nI have been taking advantage of programs and short courses offered through the University of South Carolina Center for Teaching Excellence.\n\nPreparing Future Faculty Program - December 2025-Present\n\nThe Preparing Future Faculty (PFF) program is a professional development opportunity that provides assistance to graduate students and post-docs who want to become faculty members at the college level. PFF is a national program established by the Council of Graduate Schools, the Association of American Colleges and Universities, the Pew Charitable Trust and the National Science Foundation.\n\nFoster Student Learning through Effective Teaching - Short Course - Jan 2026 - Feb 2026"
-  },
-  {
     "objectID": "teaching.html#educational-training",
     "href": "teaching.html#educational-training",
     "title": "Teaching",
     "section": "Educational Training",
     "text": "Educational Training\nI have been taking advantage of programs and short courses offered through the University of South Carolina Center for Teaching Excellence as well as courses offered through the Department of Biological Sciences.\n\nPreparing Future Faculty Program - December 2025-Present\n\nThe Preparing Future Faculty (PFF) program is a professional development opportunity that provides assistance to graduate students and post-docs who want to become faculty members at the college level. PFF is a national program established by the Council of Graduate Schools, the Association of American Colleges and Universities, the Pew Charitable Trust and the National Science Foundation.\n\nFoster Student Learning through Effective Teaching - Short Course - Jan 2026 - Feb 2026\n\nEnhance teaching practices using evidence-based strategies and tools. Learning how to:\n\nDesign effective, inclusive courses\nCommunicate expectations clearly\nCreate engaging and supportive learning environments\n\n\nBIOL 710: Scientific Teaching and Pedagogy Course - Aug 2025-Dec 2025\n\nCourse Description: This course is designed to increase teaching proficiency on the science behind student learning, scientific teaching, assessments and rubrics, active learning, project-based learning, teaching technology, inclusive teaching and universal design, classroom and course management, and course design. Participants will begin to develop their own set of course content (specific to their area of expertise) and will deliver that course content as the designated instructor of record after completion of this course. Students will also develop a proper syllabus for their designated course and prepare their own teaching philosophy at the end of this course."
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "Let’s connect and chat science or collaborate!\n\nEmail\npignatea@email.sc.edu - Work\nanthonyjpignatelli@gmail.com - Personal\n\n\nAddress\nEarth and Water Sciences\nRoom 601\n701 Sumter Street\nColumbia, SC 29208"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Here is a mostly up to date list of my publications. Check out my Google Scholar profile for a more up to date bibliography.\n\nMarine zooplankton contribute diferentially to community synchrony across a 37-year time series. http://doi.org/10.1111/1365-2656.70323\n\nTA Dallas, L Holian, AJ Pignatelli, J Stone. 2026 Journal of Animal Ecology\n\n\n\n\nCommunity synchrony in aquatic macroinvertebrates is unrelated to environmental variability but differs among functional feeding groups. https://doi.org/10.1002/ece3.72999Digital Object Identifier (DOI)\n\nAJ Pignatelli, TA Dallas. 2026 Ecology and Evolution\n\n\n\n\nNonlinear thinking in ecology and evolution: The case for ecological scaling of the Threshold Elemental Ratio. https://doi.org/10.1007/s00442-025-05842-w\n\nBB Tumolo, CR Olson, EL Larson, HM Halvorson, CE Wagner, AC Krist, FS Osburn, EK Moody, LA Rock, UVC Ogbenna, EN Wess, B Najev, AJ Pignatelli, JR Corman. 2026 Oecologia\n\nLinking functional responses and effects with stoichiometric traits. https://doi.org/10.1002/ecy.70080\n\nEK Moody, K Anania, KS Boersma, TJ Butts, JR Corman, S Cruz, WR Farrell, KN Fonseca, AC Krist, EI Larson, A Lewanski, CLiriano, AJ Pignatelli, A Poetzl, AT Rugenski, CStiglitz, A Villanueva. 2025 Ecology.\n\nInfluence of urbanization on organic matter processing and nutrient immobilization in wadeable streams (southeastern USA). https://doi.org/10.1086/738281\n\nDA Cross, DM Costello, SD Tiegs, KA Kuehn, HM Halvorson, AJ Pignatelli, KA Capps. 2025 Freshwater Science."
   }
 ]

@@ -4,18 +4,26 @@ title: "Publications"
 
 Here is a *mostly* up to date list of my publications. Check out my [Google Scholar](https://scholar.google.com/citations?user=0OdkvtMAAAAJ&hl=en) profile for a more up to date bibliography.
 
-1.  Community synchrony in aquatic macroinvertebrates is unrelated to environmental variability but differs among functional feeding groups.
+-   Marine zooplankton contribute diferentially to community synchrony across a 37-year time series. <http://doi.org/10.1111/1365-2656.70323>
 
-    **AJ Pignatelli**, TA Dallas. *In Review*
+    -   TA Dallas, L Holian, **AJ Pignatelli**, J Stone. 2026 Journal of Animal Ecology
 
-2.  Nonlinear thinking in ecology and evolution: The case for ecological scaling of the Threshold Elemental Ratio. <https://doi.org/10.1007/s00442-025-05842-w>
+<!-- -->
 
-    BB Tumolo, CR Olson, EL Larson, HM Halvorson, CE Wagner, AC Krist, FS Osburn, EK Moody, LA Rock, UVC Ogbenna, EN Wess, B Najev, **AJ Pignatelli**, JR Corman. 2026 Oecologia
+-   Community synchrony in aquatic macroinvertebrates is unrelated to environmental variability but differs among functional feeding groups. [**https://doi.org/10.1002/ece3.72999Digital Object Identifier (DOI)**](https://doi.org/10.1002/ece3.72999)
 
-3.  Linking functional responses and effects with stoichiometric traits. <https://doi.org/10.1002/ecy.70080>
+    -   **AJ Pignatelli**, TA Dallas. 2026 Ecology and Evolution
 
-    EK Moody, K Anania, KS Boersma, TJ Butts, JR Corman, S Cruz, WR Farrell, KN Fonseca, AC Krist, EI Larson, A Lewanski, CLiriano, **AJ Pignatelli**, A Poetzl, AT Rugenski, CStiglitz, A Villanueva. 2025 Ecology.
+<!-- -->
 
-4.  Influence of urbanization on organic matter processing and nutrient immobilization in wadeable streams (southeastern USA). <https://doi.org/10.1086/738281>
+-   Nonlinear thinking in ecology and evolution: The case for ecological scaling of the Threshold Elemental Ratio. <https://doi.org/10.1007/s00442-025-05842-w>
 
-    DA Cross, DM Costello, SD Tiegs, KA Kuehn, HM Halvorson, **AJ Pignatelli**, KA Capps. 2025 Freshwater Science.
+    -   BB Tumolo, CR Olson, EL Larson, HM Halvorson, CE Wagner, AC Krist, FS Osburn, EK Moody, LA Rock, UVC Ogbenna, EN Wess, B Najev, **AJ Pignatelli**, JR Corman. 2026 Oecologia
+
+-   Linking functional responses and effects with stoichiometric traits. <https://doi.org/10.1002/ecy.70080>
+
+    -   EK Moody, K Anania, KS Boersma, TJ Butts, JR Corman, S Cruz, WR Farrell, KN Fonseca, AC Krist, EI Larson, A Lewanski, CLiriano, **AJ Pignatelli**, A Poetzl, AT Rugenski, CStiglitz, A Villanueva. 2025 Ecology.
+
+-   Influence of urbanization on organic matter processing and nutrient immobilization in wadeable streams (southeastern USA). <https://doi.org/10.1086/738281>
+
+    -   DA Cross, DM Costello, SD Tiegs, KA Kuehn, HM Halvorson, **AJ Pignatelli**, KA Capps. 2025 Freshwater Science.
